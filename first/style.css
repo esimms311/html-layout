@@ -1,0 +1,33 @@
+.head {
+box-sizing: border-box;
+  background-color: black;
+  height:166px ;
+  width:100% ;
+
+
+}
+.body {
+  background-color: lightgray;
+  box-sizing: border-box;
+  width:100%
+   ;
+}
+.left-side {
+  background-color: gray;
+  height: 100vh;
+  width: 200px ;
+  float: left;
+}
+.right-side {
+  background-color: gray;
+float: right;
+height:100vh ;
+width: 200px;
+}
+.footer {
+  background-color: green;
+height: 75px;
+width: 100%;
+margin: auto;
+clear: both;
+}
